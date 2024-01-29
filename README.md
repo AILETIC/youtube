@@ -10,11 +10,11 @@ Here's an overview of the key projects, each linked to their respective YouTube 
 
 1. **Image to Text Converter** (`/extract-text-from-image`):
    - Converts text from images using OCR technology.
-   - * [![Youtube Link][yt_logo](https://youtu.be/ZrgXMu4VcIs)]
+   - [![Youtube Link][yt_logo]](https://youtu.be/ZrgXMu4VcIs)
 
 2. **WebApp Audio Transcription** (`/live-transcription-whisper`):
    - Transcribes audio in real-time through a web application.
-   - * [![Youtube Link][yt_logo](https://youtu.be/_jUEEX3Fn-8)]
+   - [![Youtube Link][yt_logo]](https://youtu.be/_jUEEX3Fn-8)
 
 For installation and usage instructions, please refer to the README file in each project's subfolder.
 
@@ -45,7 +45,3 @@ Unless otherwise stated in a project's subfolder, these projects are licensed un
 ## Connect with Us
 
 For more tutorials and tech content, subscribe to the [AILETIC YouTube channel](https://www.youtube.com/ailetic). We regularly share new projects and technology insights.
-
----
-
-Remember to replace the placeholders with the actual URLs of your YouTube videos. If there are more projects or specific details you'd like to include, feel free to let me know!
