@@ -8,13 +8,11 @@ Welcome to the AILETIC YouTube Projects Repository! This repository hosts the co
 
 Here's an overview of the key projects, each linked to their respective YouTube tutorial:
 
-1. **Image to Text Converter** (`/extract-text-from-image`):
+1. [![Youtube Link][yt_logo]](https://youtu.be/ZrgXMu4VcIs) **Image to Text Converter** (`/extract-text-from-image`):
    - Converts text from images using OCR technology.
-   - [![Youtube Link][yt_logo]](https://youtu.be/ZrgXMu4VcIs)
 
-2. **WebApp Audio Transcription** (`/live-transcription-whisper`):
+2. [![Youtube Link][yt_logo]](https://youtu.be/_jUEEX3Fn-8) **WebApp Audio Transcription** (`/live-transcription-whisper`):
    - Transcribes audio in real-time through a web application.
-   - [![Youtube Link][yt_logo]](https://youtu.be/_jUEEX3Fn-8)
 
 For installation and usage instructions, please refer to the README file in each project's subfolder.
 
