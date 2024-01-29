@@ -1,6 +1,6 @@
 [yt_logo]: https://github.com/AILETIC/youtube/blob/main/images/youtube_logo.png
 
-# AILETIC YouTube Projects Repository
+# YouTube Projects
 
 Welcome to the AILETIC YouTube Projects Repository! This repository hosts the code for various projects featured in the AILETIC YouTube channel. Each project is stored in its own subfolder and is accompanied by a link to the corresponding YouTube video tutorial.
 
