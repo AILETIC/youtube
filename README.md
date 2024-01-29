@@ -1,4 +1,4 @@
-[yt_logo]: https://github.com/AILETIC/youtube/images/youtube_logo.png
+[yt_logo]: https://github.com/AILETIC/youtube/blob/main/images/youtube_logo.png
 
 # AILETIC YouTube Projects Repository
 
